@@ -1,4 +1,6 @@
-icfShit
-=======
 
-Shit for ICF
+newIINProject
+=============
+
+starting point for new iin projects.
+
